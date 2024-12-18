@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "depcheck"
+  ],
+  "skipMissing": true
+}
